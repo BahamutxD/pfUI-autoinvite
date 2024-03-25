@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [Auto Invite]
+## Author: dein0s
+## Notes: External module for |cff33ffccpf|cffffffffUI that allows you to set autoinvites through whispers
+## Version: 0.7
+## Dependencies: pfUI
+## X-LocalName: Auto Invite
+
+# main
+pfUI-autoinvite.lua
+pfUI-autoinvite-config.lua
+pfUI-autoinvite-gui.lua
